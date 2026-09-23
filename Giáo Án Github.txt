@@ -1,0 +1,9 @@
+git config --list: xem danh sách hạng mục
+git config --global user.name "TenUser"
+git config --global user.email "EmailUser"
+1 git status: xem trạng thái các file
+2 git add: thêm vào repo
+3 git commit -m "Nội dung cập nhật": tạo nội dung commit
+4 git push origin main:push github
+git clone "linkrepo" : clone 1 dự án từ github về máy
+4 git remote add origin "link_to_respo": push 1 file from local to github
