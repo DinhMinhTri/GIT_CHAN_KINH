@@ -4,7 +4,11 @@ git config --global user.email "EmailUser"
 1 git status: xem trạng thái các file
 2 git add: thêm vào repo
 3 git commit -m "Nội dung cập nhật": tạo nội dung commit
-4 git push origin main:push github
+4 git push origin main(master):push github
 git clone "linkrepo" : clone 1 dự án từ github về máy
 4 git remote add origin "link_to_respo": push 1 file from local to GitHub
 git init: khoi tao khi trong file chua co .git
+git pull origin main: cập nhật file mới nhất từ repo.
+git checkout -b tennhanh: tạo nhánh mới
+git branch: check vội các branch đang có
+git checkout tennhanh: chuyển nhánh
